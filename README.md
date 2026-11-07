@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:203a43&height=220&text=Hey,%20I'm%20Duarte%20👋&fontSize=52&fontColor=f7b733&animation=fadeIn&stroke=f7b733&strokeWidth=1" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B733&center=true&vCenter=true&width=600&lines=Data+Science+student+📊;Founder+%40+Royale+Academy+👑;Always+shipping+something+new+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B733&center=true&vCenter=true&width=600&lines=Data+Science+student+%F0%9F%93%8A;Founder+%40+Royale+Academy+%F0%9F%91%91;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,8 +35,9 @@
     </td>
     <td width="50%" valign="top">
       <h4>💰 FinanceTracker</h4>
-      <p>Personal desktop app for Windows to track monthly expenses — local, simple, no cloud.</p>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <p>A personal finance app to track monthly income and expenses, see where the money goes and stay on budget. Simple, fast and private.</p>
+      <a href="https://finance-tracker-f1q.pages.dev/"><img src="https://img.shields.io/badge/Live%20app-f7b733?style=flat-square&logo=cloudflarepages&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
     </td>
   </tr>
 </table>
